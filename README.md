@@ -71,3 +71,6 @@ Required External Tools
 - awk
 
 To check if the listed tools are available in your system and their functionality meets the subotage.sh script requirements please use the attached test_tools.sh script.
+
+Based on work of: 
+Tomasz Wisniewski aka DAGON <tomasz.wisni3wski@gmail.com>
